@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\gameuser\documents\rwm\waypoint-path-generation\waypoint path generation\waypoint path generation\waypoint.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\documents\rwm\waypoint-path-generation\waypoint path generation\waypoint path generation\path.h(24): warning C4018: '<': signed/unsigned mismatch
+  Waypoint Path Generation.vcxproj -> C:\Users\gameuser\Documents\RWM\Waypoint-Path-Generation\Waypoint Path Generation\Debug\Waypoint Path Generation.exe
+  Waypoint Path Generation.vcxproj -> C:\Users\gameuser\Documents\RWM\Waypoint-Path-Generation\Waypoint Path Generation\Debug\Waypoint Path Generation.pdb (Partial PDB)

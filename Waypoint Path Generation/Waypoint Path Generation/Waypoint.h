@@ -6,13 +6,14 @@ private:
 	float x;
 	float y;
 public:
+	Waypoint(int sX, int sY) { x = sX, y = sY; }
 	float getX()
 	{
 		return x;
 	}
 	float getY()
 	{
-		return x;
+		return y;
 	}
 	void setX(float sX)
 	{
